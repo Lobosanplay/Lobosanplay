@@ -31,4 +31,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=anaconda"/>
 </div>
 
-
+<div align="center">
+  <h2>GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lobosanplay&theme=flat"/>
+</div>
