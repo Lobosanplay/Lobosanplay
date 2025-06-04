@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b4/9d/20/b49d20d0df6421ac97215064a9c694e5.gif">
+  <img src="">
 </di
 
 <div align="center">
