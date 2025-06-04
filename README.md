@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="" alt="Typing SVG" />
+  <img src="https://tenor.com/es/view/magic-wolf-gif-23394535" alt="Typing SVG" />
 </div>
 
 <div align="center">
