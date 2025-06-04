@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B%F0%9F%8F%BB;%C2%A1Bienvenid@+a+mi+perfil+de+GitHub!%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B%F0%9F%8F%BB;%C2%A1Bienvenid@+a+mi+perfil+de+GitHub!%F0%9F%91%8B%F0%9F%8F%BB](https://tenor.com/es/view/magic-wolf-gif-23394535)" alt="Typing SVG" />
 </div>
 
 <div align="center">
