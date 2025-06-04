@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Lobosanplay/Lobosanplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,20 +18,17 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="//Lobosanplay/gift/magic-wolf.gif">
-</di
+  <img src="https://c.tenor.com/ltpyiPEvEE0AAAAC/tenor.gif">
+</div>
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,express,postgresql%22/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium"/>
 </div>
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=py,django%22/>
+  <img src="https://skillicons.dev/icons?i=anaconda"/>
 </div>
 
-<div align="center">
-  <h2>GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=junlovin&theme=flat%22/>
-</div>
+
