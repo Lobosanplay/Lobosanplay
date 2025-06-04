@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="C:\Users\USER\OneDrive\Desktop\proyectos\lobosanplay\Lobosanplay\gift\magic-wolf.gif">
+  <img src="//Lobosanplay/gift/magic-wolf.gif">
 </di
 
 <div align="center">
