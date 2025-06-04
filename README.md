@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=anaconda"/>
+  <img src="https://skillicons.dev/icons?i=anaconda,sklearn"/>
 </div>
 
 <div align="center">
