@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="">
+  <img src="https://tenor.com/es/view/magic-wolf-gif-23394535">
 </di
 
 <div align="center">
