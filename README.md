@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres"/>
 </div>
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=anaconda,sklearn"/>
+  <img src="https://skillicons.dev/icons?i=anaconda,sklearn,express,nodejs"/>
 </div>
 
 <div align="center">
