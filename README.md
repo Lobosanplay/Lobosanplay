@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts"/>
 </div>
 
 <div align="center">
