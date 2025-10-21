@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://c.tenor.com/ltpyiPEvEE0AAAAC/tenor.gif">
+  <img src="image\logo\Lobo.webp">
 </div>
 
 ## 🌟 About Me
