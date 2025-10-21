@@ -38,6 +38,20 @@ I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curi
 - Python Development & Scripting
 - AI Model Development
 
+### **Software Development**
+- Full-Stack Development
+- API Design & Development
+- Database Management
+- Testing & Automation
+
+### **Development Tools & Practices**
+- Agile Methodologies
+- RESTful API Development
+- Responsive Web Design
+- Code Optimization & Debugging
+- Software Architecture Patterns
+- CI/CD Pipelines
+
 <details>
  <summary>
   More about me
@@ -47,7 +61,7 @@ I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curi
   <table>
    <tr>
     <th>Tech Stack</th>
-    <td><img src="https://skillicons.dev/icons?i=js,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts"/></td>
+    <td><img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts"/></td>
    </tr>
    <tr>
     <th>Currently Learning</th>
