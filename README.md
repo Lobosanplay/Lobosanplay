@@ -21,6 +21,15 @@ Here are some ideas to get you started:
   <img src="image\logo\Lobo.webp">
 </div>
 
+## 🌟 About Me
+
+I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curiosity for understanding technology's core mechanisms. My journey focuses on transforming raw data into impactful solutions through the power of Data Science and Artificial Intelligence.
+
+**🎯 Current Focus**
+- Advancing specialization in **Data Science**
+- Exploring transformative potential of **AI and Machine Learning**
+- Building intelligent data-driven solutions
+
 <details>
  <summary>
   More about me
@@ -38,15 +47,6 @@ Here are some ideas to get you started:
    </tr>
   </table>
  </div>
- 
-## 🌟 About Me
-
-I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curiosity for understanding technology's core mechanisms. My journey focuses on transforming raw data into impactful solutions through the power of Data Science and Artificial Intelligence.
-
-**🎯 Current Focus**
-- Advancing specialization in **Data Science**
-- Exploring transformative potential of **AI and Machine Learning**
-- Building intelligent data-driven solutions
 
 ## 🛠 Technical Skills
 
