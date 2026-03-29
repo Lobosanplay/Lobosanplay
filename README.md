@@ -21,6 +21,24 @@ Here are some ideas to get you started:
   <img src="image\logo\Lobo.webp">
 </div>
 
+<details>
+ <summary>
+  More about me
+ </summary>
+ <div align="center">
+  <h2>Technologies</h2>
+  <table>
+   <tr>
+    <th>Tech Stack</th>
+    <td><img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts"/></td>
+   </tr>
+   <tr>
+    <th>Currently Learning</th>
+    <td><img src="https://skillicons.dev/icons?i=anaconda,sklearn"/></td>
+   </tr>
+  </table>
+ </div>
+ 
 ## 🌟 About Me
 
 I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curiosity for understanding technology's core mechanisms. My journey focuses on transforming raw data into impactful solutions through the power of Data Science and Artificial Intelligence.
@@ -51,34 +69,6 @@ I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curi
 - Code Optimization & Debugging
 - Software Architecture Patterns
 - CI/CD Pipelines
-
-<details>
- <summary>
-  More about me
- </summary>
- <div align="center">
-  <h2>Technologies</h2>
-  <table>
-   <tr>
-    <th>Tech Stack</th>
-    <td><img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts"/></td>
-   </tr>
-   <tr>
-    <th>Currently Learning</th>
-    <td><img src="https://skillicons.dev/icons?i=anaconda,sklearn"/></td>
-   </tr>
-  </table>
- </div>
- 
-<div align="center">
- <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lobosanplay&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobosanplay&layout=compact&theme=radical">
-</div>
-<div align="center">
-  <h2>GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Lobosanplay&theme=onestar"/>
-</div>
 </details>
 
 <div align="center">
