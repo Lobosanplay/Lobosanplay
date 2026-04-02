@@ -17,8 +17,8 @@ Here are some ideas to get you started:
  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B%F0%9F%8F%BB;%C2%A1Welcome+to+my+GitHub+profile!%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="image\logo\Lobo.webp">
+<div align="center" >
+  <img style={with="250px", height="250px"} src="image\logo\Lobo.webp">
 </div>
 
 ## 🌟 About Me
