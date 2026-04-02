@@ -39,11 +39,11 @@ I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curi
   <table>
    <tr>
     <th>Tech Stack</th>
-    <td><img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts"/></td>
+    <td><img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts,anaconda,sklearn"/></td>
    </tr>
    <tr>
     <th>Currently Learning</th>
-    <td><img src="https://skillicons.dev/icons?i=anaconda,sklearn"/></td>
+    <td><img src="https://skillicons.dev/icons?i="/></td>
    </tr>
   </table>
  </div>
