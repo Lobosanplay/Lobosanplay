@@ -41,10 +41,6 @@ I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curi
     <th>Tech Stack</th>
     <td><img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts,anaconda,sklearn"/></td>
    </tr>
-   <tr>
-    <th>Currently Learning</th>
-    <td><img src="https://skillicons.dev/icons?i="/></td>
-   </tr>
   </table>
  </div>
 
