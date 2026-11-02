@@ -31,7 +31,7 @@ I'm **Santiago Miguel Parra Marín**, a passionate developer with an innate curi
   More about me
  </summary>
  <div align="center">
-  <h2>Technologies</h2>
+  <h2 align="start"> ⚙️ Technologies</h2>
    <img src="https://skillicons.dev/icons?i=js,html,css,py,django,flask,fastapi,mysql,selenium,flutter,postgres,express,nodejs,react,tailwind,ts,anaconda,sklearn"/>
  </div>
 
